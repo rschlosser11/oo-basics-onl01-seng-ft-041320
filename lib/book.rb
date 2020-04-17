@@ -3,7 +3,7 @@ class Book
   def initialize(title)
     @title = title
   end
-  def turn_page(current_page)
-     current_page += 1
+  def turn_page
+     
   end
 end
